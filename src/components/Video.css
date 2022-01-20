@@ -1,0 +1,19 @@
+.video {
+    background-color: #888888;
+    width: 600px;
+    height: 400px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video img {
+    cursor: pointer;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}

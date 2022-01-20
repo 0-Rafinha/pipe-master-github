@@ -1,0 +1,12 @@
+.subscribe {
+    background-color: #c53939;
+    border: none;
+    color: #FFF;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.subscribe.true {
+    background-color: #616161;
+}
